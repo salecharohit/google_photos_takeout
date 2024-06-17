@@ -34,10 +34,11 @@ A Python script, converted from a PowerShell solution provided by [TheOriginalBv
 
 1. Copy the Python script into the `Google Photos` folder within your `Takeout` directory.
 2. Run the script using Python 3 by executing the following command in your terminal:
-
 ```bash
 python3 photos.py
 ```
+3. Delete all your JSON files `rm *.json`
+4. Upload all your photos to your google account.
 
 ## Conclusion
 
